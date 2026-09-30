@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DARKVILLE-3sc7.aternos.me",
+    "ip": "DARKVILLE-3sc7.aternos.me:46043",
     "port": 46043,
     "version": "1.20.1",
     "try-creative": false
